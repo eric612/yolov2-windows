@@ -11,6 +11,6 @@ the same as [yolo windows](https://github.com/unsky/yolo-for-windows-v2)
 
 # OPENCV 3.3.0
 
-This version is no longer support non optimization on pure [c api](https://github.com/opencv/opencv/issues/10246), this is why this project can't build debug
+This version is no longer support non optimization on pure [c api](https://github.com/opencv/opencv/issues/10246), so this project can't build debug
 ,if you want set to debug mode , I suggest you use orginal project and OPENCV_2.4.9, or you can just remove define "OPENCV"
 
