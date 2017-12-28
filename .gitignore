@@ -13,9 +13,17 @@ convnet/
 decaf/
 submission/
 cfg/
-darknet
+*.obj
 .fuse*
-
+*.tlog
+*.log
+*.ipdb
+*.iobj
+*_no_gpu.exe
+build\darknet\x64\data
+*.db
+*.pdb
+*.idb
 # OS Generated #
 .DS_Store*
 ehthumbs.db
